@@ -1,0 +1,8 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="rsinet_com_br" locator="//BrowserApplication" urlPattern="*rsinet.com.br*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="Conduta e Ética" locator="//A[@textContents=&apos;Conduta e Ética&apos;]"/>
+      <ObjectMapEntry id="Trabalhe Conosco" locator="//A[@textContents=&apos;Trabalhe Conosco&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>

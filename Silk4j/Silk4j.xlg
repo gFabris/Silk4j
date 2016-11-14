@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SilkPerformerLog version="1"
+                  buildInfo="Generated with SilkPerformer 9.5.0.5214" script=""
+                  usergroup="" profile="" perspective="TruelogViewer"
+                  interfaces="SILKTEST">
+  <Transaction id="3" time="2016-11-14; 11:24:44"
+               timeStamp="|44|24|11|14|10|116|1|318|1|" tick="1311313"
+               file="TestScript1.java" bdlLine="0" transidx="1">
+    Script TestScript1.java
+  </Transaction>
+  <SilkTestDoc id="4" time="2016-11-14; 11:24:44"
+               timeStamp="|44|24|11|14|10|116|1|318|1|" tick="1311313"
+               ApiHandle="" file="" bdlLine="0" status="0" ApiCtxt="//*/*[3]"
+               ApiRefType="parent">
+    Testcase mainScript2
+  </SilkTestDoc>
+  <Apiinfo id="5" time="2016-11-14; 11:24:46"
+           timeStamp="|46|24|11|14|10|116|1|318|1|" idx="//*/*[4]" severity="0">
+    Elapsed Time: 00:00:02
+  </Apiinfo>
+  <SilkTestDoc id="6" time="2016-11-14; 11:24:46"
+               timeStamp="|46|24|11|14|10|116|1|318|1|" tick="1313684"
+               ApiHandle="" file="" bdlLine="0" status="0" ApiCtxt="//*/*[3]"
+               ApiRefType="parent">
+    Testcase mainScript
+  </SilkTestDoc>
+  <SilkTestDoc id="7" time="2016-11-14; 11:24:52"
+               timeStamp="|52|24|11|14|10|116|1|318|1|" tick="1320142"
+               ApiHandle="" file="" bdlLine="0" status="0" ApiCtxt="//*/*[6]"
+               ApiRefType="parent">
+    Enter &apos;RSI&lt;Enter&gt;&apos; into &apos;INPUT&apos;
+  </SilkTestDoc>
+  <Apiinfo id="8" time="2016-11-14; 11:24:52"
+           timeStamp="|52|24|11|14|10|116|1|318|1|" idx="//*/*[7]" severity="0">
+    DomTextField.TypeKeys(keys: RSI&lt;Enter&gt;)
+  </Apiinfo>
+  <Apiinfo id="9" time="2016-11-14; 11:24:52"
+           timeStamp="|52|24|11|14|10|116|1|318|1|" idx="//*/*[7]" severity="0">
+    Locator: //BrowserApplication//BrowserWindow//DIV[@id=&apos;gs_lc0&apos;]/INPUT
+  </Apiinfo>
+  <ApiProp id="10" apicall="//*/*[7]" propId="0" propName="CS">TestScript1.mainScript|TestScript1.java|43|</ApiProp>
+  <ApiProp id="11" apicall="//*/*[7]" propId="8" propName="ROOT"></ApiProp>
+  <ApiProp id="12" apicall="//*/*[7]" propId="8" propName="CID">8</ApiProp>
+  <ApiProp id="13" apicall="//*/*[7]" propId="8" propName="ID"></ApiProp>
+  <ApiProp id="14" apicall="//*/*[7]" propId="8" propName="V"></ApiProp>
+  <ApiProp id="15" apicall="//*/*[7]" propId="8" propName="TN"></ApiProp>
+  <ApiProp id="16" apicall="//*/*[7]" propId="8" propName="T">0</ApiProp>
+  <ApiProp id="17" apicall="//*/*[7]" propId="8" propName="BID"></ApiProp>
+  <ApiProp id="18" apicall="//*/*[7]" propId="8" propName="PID">0</ApiProp>
+  <SilkTestDoc id="19" time="2016-11-14; 11:24:52"
+               timeStamp="|52|24|11|14|10|116|1|318|1|" tick="1320174"
+               ApiHandle="" file="" bdlLine="0" status="0" ApiCtxt="//*/*[6]"
+               ApiRefType="parent">
+    Click &apos;RSI&apos; at 17, 5
+  </SilkTestDoc>
+  <Apiinfo id="20" time="2016-11-14; 11:24:52"
+           timeStamp="|52|24|11|14|10|116|1|318|1|" idx="//*/*[19]" severity="0">
+    DomLink.Click(button: 1, pos: {17,5})
+  </Apiinfo>
+  <Apiinfo id="21" time="2016-11-14; 11:24:52"
+           timeStamp="|52|24|11|14|10|116|1|318|1|" idx="//*/*[19]" severity="0">
+    Locator: //BrowserApplication//BrowserWindow//A[@textContents=&apos;RSI&apos;]
+  </Apiinfo>
+  <ApiProp id="22" apicall="//*/*[19]" propId="0" propName="CS">TestScript1.mainScript|TestScript1.java|44|</ApiProp>
+  <ApiProp id="23" apicall="//*/*[19]" propId="9" propName="ROOT"></ApiProp>
+  <ApiProp id="24" apicall="//*/*[19]" propId="9" propName="CID">9</ApiProp>
+  <ApiProp id="25" apicall="//*/*[19]" propId="9" propName="ID"></ApiProp>
+  <ApiProp id="26" apicall="//*/*[19]" propId="9" propName="V"></ApiProp>
+  <ApiProp id="27" apicall="//*/*[19]" propId="9" propName="TN"></ApiProp>
+  <ApiProp id="28" apicall="//*/*[19]" propId="9" propName="T">0</ApiProp>
+  <ApiProp id="29" apicall="//*/*[19]" propId="9" propName="BID"></ApiProp>
+  <ApiProp id="30" apicall="//*/*[19]" propId="9" propName="PID">0</ApiProp>
+  <SilkTestDoc id="31" time="2016-11-14; 11:24:52"
+               timeStamp="|52|24|11|14|10|116|1|318|1|" tick="1320174"
+               ApiHandle="" file="" bdlLine="0" status="0" ApiCtxt="//*/*[6]"
+               ApiRefType="parent">
+    Click &apos;Conduta e &#xc9;tica&apos; at 125, 10
+  </SilkTestDoc>
+  <Apiinfo id="32" time="2016-11-14; 11:24:52"
+           timeStamp="|52|24|11|14|10|116|1|318|1|" idx="//*/*[31]" severity="0">
+    DomLink.Click(button: 1, pos: {125,10})
+  </Apiinfo>
+  <Apiinfo id="33" time="2016-11-14; 11:24:52"
+           timeStamp="|52|24|11|14|10|116|1|318|1|" idx="//*/*[31]" severity="0">
+    Locator: //BrowserApplication//BrowserWindow//A[@textContents=&apos;Conduta e &#xc9;tica&apos;]
+  </Apiinfo>
+  <ApiProp id="34" apicall="//*/*[31]" propId="0" propName="CS">TestScript1.mainScript|TestScript1.java|47|</ApiProp>
+  <ApiProp id="35" apicall="//*/*[31]" propId="10" propName="ROOT"></ApiProp>
+  <ApiProp id="36" apicall="//*/*[31]" propId="10" propName="CID">10</ApiProp>
+  <ApiProp id="37" apicall="//*/*[31]" propId="10" propName="ID"></ApiProp>
+  <ApiProp id="38" apicall="//*/*[31]" propId="10" propName="V"></ApiProp>
+  <ApiProp id="39" apicall="//*/*[31]" propId="10" propName="TN"></ApiProp>
+  <ApiProp id="40" apicall="//*/*[31]" propId="10" propName="T">0</ApiProp>
+  <ApiProp id="41" apicall="//*/*[31]" propId="10" propName="BID"></ApiProp>
+  <ApiProp id="42" apicall="//*/*[31]" propId="10" propName="PID">0</ApiProp>
+  <Apiinfo id="43" time="2016-11-14; 11:24:52"
+           timeStamp="|52|24|11|14|10|116|1|318|1|" idx="//*/*[6]" severity="0">
+    Elapsed Time: 00:00:06
+  </Apiinfo>
+  <Apiinfo id="44" time="2016-11-14; 11:24:52"
+           timeStamp="|52|24|11|14|10|116|1|318|1|" idx="//*/*[3]" severity="0">
+    Elapsed Time: 00:00:09
+  </Apiinfo>
+</SilkPerformerLog>

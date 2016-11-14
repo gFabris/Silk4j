@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><recorderProject version="15.0">
+  <applicationConfiguration>
+    <browserType>InternetExplorer</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>https://www.google.com.br/</url>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions>
+    <entry>
+      <string>OPT_ASSET_NAMESPACE</string>
+      <string>Silk4j</string>
+    </entry>
+  </agentOptions>
+</recorderProject>

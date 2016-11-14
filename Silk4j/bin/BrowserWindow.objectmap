@@ -1,0 +1,5 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+    <ObjectMapEntry id="Código de Conduta e" locator="//A[@textContents=&apos;Código de Conduta e *&apos;]"/>
+  </ObjectMapEntry>
+</ObjectMap>
